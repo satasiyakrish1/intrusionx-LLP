@@ -1,0 +1,16 @@
+body {
+    --e-global-color-primary: #FFFFFF;
+    --e-global-color-secondary: #FFFFFF0A;
+    --e-global-color-text: #FFFFFF;
+    --e-global-color-accent: #3F82FB;
+    --e-global-color-accentsecondary: #0F2453;
+    --e-global-color-white: #FFFFFF;
+    --e-global-color-black: #000000;
+    --e-global-color-divider: #FFFFFF1A;
+    --e-global-color-darkdivider: #0F24531A;
+    --e-global-color-background: #0F162C;
+    --e-global-typography-primary-font-family: "Sora", sans-serif;
+    --e-global-typography-secondary-font-family: "Sora", sans-serif;
+    --e-global-typography-text-font-family: "Sora", sans-serif;
+    --e-global-typography-accent-font-family: "Sora", sans-serif;
+}

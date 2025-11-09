@@ -1,0 +1,1189 @@
+.elementor-8719 .elementor-element.elementor-element-c18d674 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 30px 30px;
+    --row-gap: 30px;
+    --column-gap: 30px;
+    --flex-wrap: wrap;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+    overflow: visible;
+}
+
+.elementor-8719 .elementor-element.elementor-element-f1d1f13 {
+    --display: flex;
+    --border-radius: 12px 12px 12px 12px;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+    overflow: visible;
+}
+
+.elementor-8719 .elementor-element.elementor-element-f1d1f13:not(.elementor-motion-effects-element-type-background),
+.elementor-8719 .elementor-element.elementor-element-f1d1f13>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-7d03bc0> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-47a17a2> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-051a90b> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn {
+    background-color: #FFFFFF00;
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    padding: 14px 14px 14px 14px;
+    color: var( --e-global-color-white);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-white);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn:hover {
+    background-color: var( --e-global-color-white);
+    color: var( --e-global-color-accentsecondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left i {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right i {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right svg {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing {
+    text-align: left;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+    text-align: left;
+    color: var( --e-global-color-primary);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-header {
+    margin: 0px 0px 20px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+    text-align: left;
+    color: var( --e-global-color-text);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    padding: 3px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-tag {
+    right: 0px;
+    width: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price .period {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sub.period {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-content {
+    text-align: left;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: var( --e-global-color-divider);
+    margin: 25px 0px 30px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-content p,
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists>li {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists>li {
+    list-style: none;
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-content p {
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists li:before {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-lists>li>i {
+    padding-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-lists>li>svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-lists>li>i,
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-lists>li>svg {
+    vertical-align: 3px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-btn {
+    width: 100%;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-pricing-btn-wraper {
+    text-align: center;
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn svg path {
+    stroke: var( --e-global-color-white);
+    fill: var( --e-global-color-white);
+}
+
+.elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn:hover svg path {
+    stroke: var( --e-global-color-accentsecondary);
+    fill: var( --e-global-color-accentsecondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-395cd39 {
+    --display: flex;
+    --border-radius: 12px 12px 12px 12px;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+    overflow: hidden;
+}
+
+.elementor-8719 .elementor-element.elementor-element-395cd39:not(.elementor-motion-effects-element-type-background),
+.elementor-8719 .elementor-element.elementor-element-395cd39>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-7d03bc0> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-47a17a2> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-051a90b> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn {
+    background-color: #FFFFFF00;
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    padding: 14px 14px 14px 14px;
+    color: var( --e-global-color-white);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-white);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn:hover {
+    background-color: var( --e-global-color-white);
+    color: var( --e-global-color-accentsecondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left i {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right i {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right svg {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing {
+    text-align: left;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+    text-align: left;
+    color: var( --e-global-color-primary);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-header {
+    margin: 0px 0px 20px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+    text-align: left;
+    color: var( --e-global-color-text);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    padding: 3px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-tag {
+    right: 0px;
+    width: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price .period {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sub.period {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-content {
+    text-align: left;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: var( --e-global-color-divider);
+    margin: 25px 0px 30px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-content p,
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists>li {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists>li {
+    list-style: none;
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-content p {
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists li:before {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-lists>li>i {
+    padding-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-lists>li>svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-lists>li>i,
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-lists>li>svg {
+    vertical-align: 3px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-btn {
+    width: 100%;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-pricing-btn-wraper {
+    text-align: center;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn svg path {
+    stroke: var( --e-global-color-white);
+    fill: var( --e-global-color-white);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn:hover svg path {
+    stroke: var( --e-global-color-accentsecondary);
+    fill: var( --e-global-color-accentsecondary);
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-primary-font-size);
+    font-weight: var( --e-global-typography-primary-font-weight);
+    line-height: var( --e-global-typography-primary-line-height);
+    letter-spacing: var( --e-global-typography-primary-letter-spacing);
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-3c81545 {
+    width: var( --container-widget-width, 180px);
+    max-width: 180px;
+    --e-transform-rotateZ: 48deg;
+    background-color: var( --e-global-color-accent);
+    padding: 8px 8px 8px 8px;
+    --container-widget-width: 180px;
+    --container-widget-flex-grow: 0;
+    top: 30px;
+    text-align: center;
+}
+
+body:not(.rtl) .elementor-8719 .elementor-element.elementor-element-3c81545 {
+    right: -48px;
+}
+
+body.rtl .elementor-8719 .elementor-element.elementor-element-3c81545 {
+    left: -48px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-3c81545 .elementor-heading-title {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    color: var( --e-global-color-white);
+}
+
+.elementor-8719 .elementor-element.elementor-element-7963d6d {
+    --display: flex;
+    --border-radius: 12px 12px 12px 12px;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+    overflow: visible;
+}
+
+.elementor-8719 .elementor-element.elementor-element-7963d6d:not(.elementor-motion-effects-element-type-background),
+.elementor-8719 .elementor-element.elementor-element-7963d6d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-7d03bc0> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-47a17a2> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-051a90b> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn {
+    background-color: #FFFFFF00;
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    padding: 14px 14px 14px 14px;
+    color: var( --e-global-color-white);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-white);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn:hover {
+    background-color: var( --e-global-color-white);
+    color: var( --e-global-color-accentsecondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left i {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right i {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right svg {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing {
+    text-align: left;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+    text-align: left;
+    color: var( --e-global-color-primary);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-header {
+    margin: 0px 0px 20px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+    text-align: left;
+    color: var( --e-global-color-text);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    padding: 3px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-tag {
+    right: 0px;
+    width: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price .period {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sub.period {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-content {
+    text-align: left;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: var( --e-global-color-divider);
+    margin: 25px 0px 30px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-content p,
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists>li {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists>li {
+    list-style: none;
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-content p {
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists li:before {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-lists>li>i {
+    padding-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-lists>li>svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-lists>li>i,
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-lists>li>svg {
+    vertical-align: 3px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-btn {
+    width: 100%;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-pricing-btn-wraper {
+    text-align: center;
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn svg path {
+    stroke: var( --e-global-color-white);
+    fill: var( --e-global-color-white);
+}
+
+.elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn:hover svg path {
+    stroke: var( --e-global-color-accentsecondary);
+    fill: var( --e-global-color-accentsecondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-3d1a44c {
+    --display: flex;
+    --border-radius: 12px 12px 12px 12px;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+    overflow: visible;
+}
+
+.elementor-8719 .elementor-element.elementor-element-3d1a44c:not(.elementor-motion-effects-element-type-background),
+.elementor-8719 .elementor-element.elementor-element-3d1a44c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-7d03bc0> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-47a17a2> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists .elementor-repeater-item-051a90b> :is(i, svg) {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+    font-size: 5px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn {
+    background-color: #FFFFFF00;
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    padding: 14px 14px 14px 14px;
+    color: var( --e-global-color-white);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-white);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn:hover {
+    background-color: var( --e-global-color-white);
+    color: var( --e-global-color-accentsecondary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left i {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right i {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-left svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.ekit-pricing-btn-icon-pos-right svg {
+    margin-left: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing {
+    text-align: left;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+    text-align: left;
+    color: var( --e-global-color-primary);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-header {
+    margin: 0px 0px 20px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+    text-align: left;
+    color: var( --e-global-color-text);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    padding: 3px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-tag {
+    right: 0px;
+    width: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price .period {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sub.period {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-content {
+    text-align: left;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: var( --e-global-color-divider);
+    margin: 25px 0px 30px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-content p,
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists>li {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 0px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists>li {
+    list-style: none;
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-content p {
+    color: var( --e-global-color-text);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists li:before {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-lists>li>i {
+    padding-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-lists>li>svg {
+    margin-right: 10px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-lists>li>i,
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-lists>li>svg {
+    vertical-align: 3px;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-btn {
+    width: 100%;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-pricing-btn-wraper {
+    text-align: center;
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn svg path {
+    stroke: var( --e-global-color-white);
+    fill: var( --e-global-color-white);
+}
+
+.elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn:hover svg path {
+    stroke: var( --e-global-color-accentsecondary);
+    fill: var( --e-global-color-accentsecondary);
+}
+
+@media(min-width:768px) {
+    .elementor-8719 .elementor-element.elementor-element-f1d1f13 {
+        --width: calc(25% - 22.5px);
+    }
+    .elementor-8719 .elementor-element.elementor-element-395cd39 {
+        --width: calc(25% - 22.5px);
+    }
+    .elementor-8719 .elementor-element.elementor-element-7963d6d {
+        --width: calc(25% - 22.5px);
+    }
+    .elementor-8719 .elementor-element.elementor-element-3d1a44c {
+        --width: calc(25% - 22.5px);
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-8719 .elementor-element.elementor-element-f1d1f13 {
+        --width: calc(50% - 15px);
+    }
+    .elementor-8719 .elementor-element.elementor-element-395cd39 {
+        --width: calc(50% - 15px);
+    }
+    .elementor-8719 .elementor-element.elementor-element-7963d6d {
+        --width: calc(50% - 15px);
+    }
+    .elementor-8719 .elementor-element.elementor-element-3d1a44c {
+        --width: calc(50% - 15px);
+    }
+}
+
+@media(max-width:1440px) {
+    .elementor-8719 .elementor-element.elementor-element-f1d1f13 {
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-content p,
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists>li {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+    .elementor-8719 .elementor-element.elementor-element-395cd39 {
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-content p,
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists>li {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+    .elementor-widget-heading .elementor-heading-title {
+        font-size: var( --e-global-typography-primary-font-size);
+        line-height: var( --e-global-typography-primary-line-height);
+        letter-spacing: var( --e-global-typography-primary-letter-spacing);
+    }
+    body:not(.rtl) .elementor-8719 .elementor-element.elementor-element-3c81545 {
+        right: -55px;
+    }
+    body.rtl .elementor-8719 .elementor-element.elementor-element-3c81545 {
+        left: -55px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-3c81545 {
+        top: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-3c81545 .elementor-heading-title {
+        font-size: 12px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-7963d6d {
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-content p,
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists>li {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+    .elementor-8719 .elementor-element.elementor-element-3d1a44c {
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-subtitle {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 32px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-content p,
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists>li {
+        font-size: 14px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-8719 .elementor-element.elementor-element-f1d1f13 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-lists li:before {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-content {
+        margin: 20px 0px 30px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+        padding: 12px 12px 12px 12px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-395cd39 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-lists li:before {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-content {
+        margin: 20px 0px 30px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+        padding: 12px 12px 12px 12px;
+    }
+    .elementor-widget-heading .elementor-heading-title {
+        font-size: var( --e-global-typography-primary-font-size);
+        line-height: var( --e-global-typography-primary-line-height);
+        letter-spacing: var( --e-global-typography-primary-letter-spacing);
+    }
+    .elementor-8719 .elementor-element.elementor-element-7963d6d {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-lists li:before {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-content {
+        margin: 20px 0px 30px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+        padding: 12px 12px 12px 12px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-3d1a44c {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 28px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-lists li:before {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-content {
+        margin: 20px 0px 30px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+        padding: 12px 12px 12px 12px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-8719 .elementor-element.elementor-element-f1d1f13 {
+        --width: 100%;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+        font-size: 16px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-header {
+        margin: 0px 0px 15px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-02fa586 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+    .elementor-8719 .elementor-element.elementor-element-395cd39 {
+        --width: 100%;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+        font-size: 16px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-header {
+        margin: 0px 0px 15px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2d2fd22 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+    .elementor-widget-heading .elementor-heading-title {
+        font-size: var( --e-global-typography-primary-font-size);
+        line-height: var( --e-global-typography-primary-line-height);
+        letter-spacing: var( --e-global-typography-primary-letter-spacing);
+    }
+    .elementor-8719 .elementor-element.elementor-element-7963d6d {
+        --width: 100%;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+        font-size: 16px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-header {
+        margin: 0px 0px 15px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-267706c .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+    .elementor-8719 .elementor-element.elementor-element-3d1a44c {
+        --width: 100%;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-header .elementskit-pricing-title {
+        font-size: 16px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-header {
+        margin: 0px 0px 15px 0px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price span {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing .elementskit-pricing-price-wraper.has-tag .elementskit-pricing-price sup.currency {
+        font-size: 24px;
+    }
+    .elementor-8719 .elementor-element.elementor-element-2c20746 .elementskit-single-pricing a.elementskit-pricing-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+        letter-spacing: var( --e-global-typography-accent-letter-spacing);
+    }
+}
