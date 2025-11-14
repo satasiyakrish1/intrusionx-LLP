@@ -289,6 +289,25 @@ iframe {
     }
 }
 
+/* Force-hide preloader (removed from page) */
+.theme-preloader {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Make header/site logo appear white in the navigation bar */
+.elementor-widget-netzon-site-logo .ata-site-logo-img,
+.elementor-widget-netzon-site-logo .ata-site-logo-img img,
+header.main-header .ata-site-logo-img {
+    filter: brightness(0) invert(1) !important;
+    -webkit-filter: brightness(0) invert(1) !important;
+}
+
+/* If the logo is an SVG with its own colors, force monochrome white using mix-blend-mode fallback */
+header.main-header .ata-site-logo-img {
+    mix-blend-mode: screen;
+}
+
 body.fancy-scrollbar::-webkit-scrollbar-track {
     background: linear-gradient(180deg, var(--e-global-color-accentsecondary) 0%, var(--e-global-color-accent) 100%);
     border-left: 1px solid var(--e-global-color-accentsecondary);

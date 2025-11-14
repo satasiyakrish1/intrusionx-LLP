@@ -801,8 +801,8 @@
 
     $window.on('load', function() {
 
-        /* Preloader Effect */
-        $(".theme-preloader").fadeOut(600);
+    /* Preloader Effect removed: preloader HTML/CSS disabled */
+    // $(".theme-preloader").fadeOut(600);
 
         /* Image Reveal Animation */
         if ($('.at-animation-image-style-1').length) {
